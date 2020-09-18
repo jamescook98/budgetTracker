@@ -1,6 +1,7 @@
 
 # Budget Tracker
 ![gif of app functionality](public/img/functionality.gif)
+
 App deployed at https://shielded-savannah-54902.herokuapp.com/
 # Description
 This is a simple budget tracker application that allows users to add expenses and deposits to their budget. If the user does so without an internet connection, their transactions will populate the total when brought back online.
